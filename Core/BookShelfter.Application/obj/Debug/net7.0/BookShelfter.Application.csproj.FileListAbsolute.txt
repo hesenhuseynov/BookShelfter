@@ -1,0 +1,15 @@
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\bin\Debug\net7.0\BookShelfter.Application.deps.json
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\bin\Debug\net7.0\BookShelfter.Application.dll
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\bin\Debug\net7.0\BookShelfter.Application.pdb
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\bin\Debug\net7.0\BookShelfter.Domain.dll
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\bin\Debug\net7.0\BookShelfter.Domain.pdb
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.csproj.AssemblyReference.cache
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.AssemblyInfoInputs.cache
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.AssemblyInfo.cs
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.csproj.CoreCompileInputs.cache
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.csproj.CopyComplete
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.dll
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\refint\BookShelfter.Application.dll
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\BookShelfter.Application.pdb
+D:\dotnetprojects\BookShelfter\Core\BookShelfter.Application\obj\Debug\net7.0\ref\BookShelfter.Application.dll

@@ -1,0 +1,8 @@
+{
+  "BookShelfter.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\dotnetprojects\\BookShelfter\\Presentation\\BookShelfter.API",
+  "BookShelfter.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\dotnetprojects\\BookShelfter\\Core\\BookShelfter.Application",
+  "BookShelfter.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\dotnetprojects\\BookShelfter\\Core\\BookShelfter.Domain",
+  "BookShelfter.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\dotnetprojects\\BookShelfter\\Infrastructure\\BookShelfter.Infrastructure",
+  "BookShelfter.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\dotnetprojects\\BookShelfter\\Infrastructure\\BookShelfter.Persistence",
+  "BookShelfter.SignalR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\dotnetprojects\\BookShelfter\\Infrastructure\\BookShelfter.SignalR"
+}
